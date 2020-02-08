@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581163292 source:/home/tadeu/cursoHacker_C/for/main.c
+	<stdio.h>
+	<stdlib.h>
+
